@@ -172,7 +172,7 @@ class EmailClassifier:
             if USING_NEW_SDK:
                 self.model = gemini_client
             else:
-                self.model = genai.GenerativeModel('gemini-1.5-flash')
+                self.model = genai.GenerativeModel('gemini-2.0-flash')
 
         # Palavras-chave para classificação heurística (fallback)
         self.productive_keywords = [
@@ -270,7 +270,7 @@ Responda EXATAMENTE neste formato JSON:
             # Generate content based on SDK version
             if self.using_new_sdk:
                 response = self.model.models.generate_content(
-                    model="gemini-1.5-flash",
+                    model="gemini-2.0-flash",
                     contents=prompt
                 )
                 response_text = response.text.strip()
