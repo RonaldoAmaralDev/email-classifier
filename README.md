@@ -8,7 +8,7 @@ Sistema de classificação automática de emails utilizando Inteligência Artifi
 
 ## Demonstração
 
-🌐 **Aplicação Online:** [Link da aplicação deployada]
+🌐 **Aplicação Online:** [https://email-classifier-dutw.onrender.com](https://email-classifier-dutw.onrender.com)
 
 📹 **Vídeo Demonstrativo:** [Link do YouTube]
 
