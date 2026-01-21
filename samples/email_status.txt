@@ -1,0 +1,19 @@
+Assunto: Solicitação de atualização - Chamado #45678
+
+Olá equipe,
+
+Gostaria de solicitar uma atualização sobre o status do chamado #45678 aberto na semana passada referente à integração do módulo de pagamentos.
+
+O prazo inicial era para sexta-feira e ainda não recebi nenhum retorno sobre o andamento.
+
+Precisamos dessa funcionalidade operacional até o final do mês para a migração do sistema.
+
+Poderiam me informar:
+1. Qual o status atual do desenvolvimento?
+2. Há algum impedimento técnico?
+3. Qual a nova previsão de entrega?
+
+Aguardo retorno,
+Maria Santos
+Gerente de Projetos
+Tel: (11) 98765-4321

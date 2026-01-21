@@ -1,0 +1,20 @@
+# Web Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# NLP
+nltk==3.8.1
+
+# PDF Processing
+PyPDF2==3.0.1
+
+# AI API - Google Gemini
+google-genai>=1.0.0
+google-generativeai>=0.3.2
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Production Server
+gunicorn==21.2.0

@@ -1,0 +1,16 @@
+Assunto: Problema urgente com acesso ao sistema
+
+Prezado Suporte,
+
+Estou enfrentando dificuldades para acessar o sistema de gestão financeira desde ontem às 14h.
+
+Ao tentar fazer login, recebo a mensagem "Erro de autenticação - código 500". Já tentei limpar o cache do navegador e usar outro dispositivo, mas o problema persiste.
+
+Meu usuário é joao.silva@empresa.com e preciso urgentemente acessar os relatórios do trimestre para a reunião de amanhã.
+
+Poderiam verificar o que está acontecendo e me ajudar a resolver?
+
+Obrigado,
+João Silva
+Departamento Financeiro
+Ramal: 2345
